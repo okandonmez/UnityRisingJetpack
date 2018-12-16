@@ -1,0 +1,3 @@
+/Users/apple/Desktop/RisingJetpack/obj/Release/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/apple/Desktop/RisingJetpack/obj/Release/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/apple/Desktop/OKAN - MACAIR/Rising Jetpack/obj/Release/Assembly-CSharp.csproj.CoreCompileInputs.cache
